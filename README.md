@@ -1,4 +1,4 @@
-# Detection
-Poyecto para implementar tensorflow para la detección de jitomates.
+# Tomato Detection
+Proyecto para detectar jitomates maduros e inmaduros usando tensorflow lite, jetpack compose y arduino.
 
 Creado por Martin L.R
